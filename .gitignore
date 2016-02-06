@@ -1,9 +1,13 @@
+# OS/Editor files
 .DS_Store
 *.swp
 *~
-#*#
+\#*#
+
+# Compiler output
 *.class
 *.out
 *.o
 *.dSYM
 output
+*.hi
