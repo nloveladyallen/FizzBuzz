@@ -1,3 +1,9 @@
 .DS_Store
 *.swp
 *~
+#*#
+*.class
+*.out
+*.o
+*.dSYM
+output
