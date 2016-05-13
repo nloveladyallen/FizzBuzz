@@ -4,8 +4,8 @@ public class java
     public static void main(String[] args)
     {
         for (int i=1; i<=100; i++) {
-	    fizzBuzz(i);
-	}
+            fizzBuzz(i);
+        }
     }
 
     public static void fizzBuzz(int num)
